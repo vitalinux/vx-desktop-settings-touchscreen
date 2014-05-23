@@ -1,0 +1,9 @@
+[org/gnome/desktop/interface]
+#Ampliación de las fuentes
+text-scaling-factor=1.5
+
+# Tamaño del cursor
+cursor-size=48
+
+[org/gnome/desktop/wm/preferences]
+theme='TraditionalGreen'

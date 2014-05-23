@@ -1,0 +1,14 @@
+Source: vx-desktop-settings-touchscreen
+Section: gnome
+Priority: extra
+Maintainer: Alberto Gacías <alberto@migasfree.org>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://github.com/vitalinux/vx-desktop-settings-touchscreen
+
+Package: vx-desktop-settings-touchscreen
+Architecture: all
+Pre-Depends: vx-desktop-settings
+Depends: ${misc:Depends}
+Description: Gnome settings
+ Gnome settings for touchscreen. 
